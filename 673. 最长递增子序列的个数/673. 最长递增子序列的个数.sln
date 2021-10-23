@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31808.319
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "673. 最长递增子序列的个数", "673. 最长递增子序列的个数\673. 最长递增子序列的个数.vcxproj", "{2D0BFF7A-3665-49E6-A66A-C98CBE1D147B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D0BFF7A-3665-49E6-A66A-C98CBE1D147B}.Debug|x64.ActiveCfg = Debug|x64
+		{2D0BFF7A-3665-49E6-A66A-C98CBE1D147B}.Debug|x64.Build.0 = Debug|x64
+		{2D0BFF7A-3665-49E6-A66A-C98CBE1D147B}.Debug|x86.ActiveCfg = Debug|Win32
+		{2D0BFF7A-3665-49E6-A66A-C98CBE1D147B}.Debug|x86.Build.0 = Debug|Win32
+		{2D0BFF7A-3665-49E6-A66A-C98CBE1D147B}.Release|x64.ActiveCfg = Release|x64
+		{2D0BFF7A-3665-49E6-A66A-C98CBE1D147B}.Release|x64.Build.0 = Release|x64
+		{2D0BFF7A-3665-49E6-A66A-C98CBE1D147B}.Release|x86.ActiveCfg = Release|Win32
+		{2D0BFF7A-3665-49E6-A66A-C98CBE1D147B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38AFFD36-A4E5-4D7F-A204-42B45B22D3F5}
+	EndGlobalSection
+EndGlobal

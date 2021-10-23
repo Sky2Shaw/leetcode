@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1fc9e93b-9a96-4720-b1a1-aff8773c51f3": {
+      "ProjectGuid": "1fc9e93b-9a96-4720-b1a1-aff8773c51f3",
+      "DisplayName": "918. 环形子数组的最大和",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

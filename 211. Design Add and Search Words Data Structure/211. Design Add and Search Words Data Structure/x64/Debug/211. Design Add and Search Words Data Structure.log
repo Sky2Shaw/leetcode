@@ -1,0 +1,4 @@
+﻿  211. Design Add and Search Words Data Structure.cpp
+D:\WorkSpace\211. Design Add and Search Words Data Structure\211. Design Add and Search Words Data Structure\211. Design Add and Search Words Data Structure.cpp(83,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\WorkSpace\211. Design Add and Search Words Data Structure\211. Design Add and Search Words Data Structure\211. Design Add and Search Words Data Structure.cpp(87,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  211. Design Add and Search Words Data Structure.vcxproj -> D:\WorkSpace\211. Design Add and Search Words Data Structure\x64\Debug\211. Design Add and Search Words Data Structure.exe

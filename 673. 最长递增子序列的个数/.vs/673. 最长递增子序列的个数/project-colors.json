@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2d0bff7a-3665-49e6-a66a-c98cbe1d147b": {
+      "ProjectGuid": "2d0bff7a-3665-49e6-a66a-c98cbe1d147b",
+      "DisplayName": "673. 最长递增子序列的个数",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
